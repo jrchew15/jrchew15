@@ -15,13 +15,6 @@ Full stack developer
 <a href="https://angel.co/u/jason-chew-7">
 <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" onclick="copyText()" style="cursor:pointer"/>
-<script>
-        function copyText() {
-            navigator.clipboard.writeText
-                ("jrchew15@gmail.com");
-        }
-</script>
 <br/>
 <br/>
 
