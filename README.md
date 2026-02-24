@@ -39,5 +39,4 @@ Full stack developer
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jrchew15&show_icons=true)
 ![leetcode stats](https://leetcard.jacoblin.cool/jrchew15?theme=dark&font=Ubuntu&width=495&height=195)
